@@ -1,0 +1,2001 @@
+{
+  "quizzes": [
+    {
+      "id": "1789310799198-3t2pj",
+      "title": "Introduction to Quadratic Equations",
+      "topic": "Introduction to quadratic equations",
+      "difficulty": "Balanced mix",
+      "questionCount": 10,
+      "questionTypes": [
+        "Multiple choice"
+      ],
+      "questions": [
+        {
+          "id": "1-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "What is the standard form of a quadratic equation?",
+          "answers": [
+            "ax + b = 0",
+            "ax^2 + bx + c = 0",
+            "ax^3 + bx^2 + cx + d = 0",
+            "a/x + b = c"
+          ],
+          "correctIndex": 1,
+          "explanation": "The standard form of a quadratic equation is ax^2 + bx + c = 0, where 'a' is not equal to 0."
+        },
+        {
+          "id": "2-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "What is the highest degree of the variable in a quadratic equation?",
+          "answers": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "correctIndex": 1,
+          "explanation": "A quadratic equation is a second-degree polynomial equation, meaning the highest exponent of the variable is 2."
+        },
+        {
+          "id": "3-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "In the standard form ax^2 + bx + c = 0, why must the coefficient 'a' not equal zero?",
+          "answers": [
+            "If a = 0, the equation becomes a linear equation.",
+            "If a = 0, the equation has no solutions.",
+            "If a = 0, the equation becomes a cubic equation.",
+            "If a = 0, x becomes undefined."
+          ],
+          "correctIndex": 0,
+          "explanation": "If 'a' were equal to zero, the x^2 term would disappear, leaving bx + c = 0, which is a linear equation."
+        },
+        {
+          "id": "4-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "Which property states that if ab = 0, then a = 0 or b = 0?",
+          "answers": [
+            "Distributive Property",
+            "Zero Product Property",
+            "Associative Property",
+            "Commutative Property"
+          ],
+          "correctIndex": 1,
+          "explanation": "The Zero Product Property is a key method used to solve factored quadratic equations by setting each factor to zero."
+        },
+        {
+          "id": "5-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "What are the solutions to the quadratic equation x^2 - 9 = 0?",
+          "answers": [
+            "x = 3 only",
+            "x = -3 only",
+            "x = 3 and x = -3",
+            "x = 9 and x = -9"
+          ],
+          "correctIndex": 2,
+          "explanation": "Factoring gives (x - 3)(x + 3) = 0. Solving both factors gives x = 3 and x = -3."
+        },
+        {
+          "id": "6-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "What is the quadratic formula used to solve ax^2 + bx + c = 0?",
+          "answers": [
+            "x = (-b ± √(b^2 - 4ac)) / (2a)",
+            "x = (b ± √(b^2 - 4ac)) / (2a)",
+            "x = (-b ± √(b^2 + 4ac)) / (2a)",
+            "x = -b / (2a)"
+          ],
+          "correctIndex": 0,
+          "explanation": "The quadratic formula provides the solutions for any quadratic equation in standard form."
+        },
+        {
+          "id": "7-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "In the quadratic formula, what is the expression (b^2 - 4ac) called?",
+          "answers": [
+            "Determinant",
+            "Discriminant",
+            "Denominator",
+            "Derivative"
+          ],
+          "correctIndex": 1,
+          "explanation": "The expression under the square root, b^2 - 4ac, is called the discriminant because it indicates the number and type of solutions."
+        },
+        {
+          "id": "8-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "If the discriminant (b^2 - 4ac) is greater than 0, how many real solutions does the quadratic equation have?",
+          "answers": [
+            "No real solutions",
+            "One real solution",
+            "Two distinct real solutions",
+            "Infinitely many solutions"
+          ],
+          "correctIndex": 2,
+          "explanation": "A positive discriminant means taking the square root yields a positive number, producing two distinct real solutions."
+        },
+        {
+          "id": "9-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "Which of the following is a quadratic equation?",
+          "answers": [
+            "3x + 5 = 11",
+            "2x^2 - 4x + 1 = 0",
+            "x^3 - 2x = 0",
+            "5/x = 10"
+          ],
+          "correctIndex": 1,
+          "explanation": "2x^2 - 4x + 1 = 0 has a maximum degree of 2 and fits the form ax^2 + bx + c = 0."
+        },
+        {
+          "id": "10-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "What is the shape of the graph of a quadratic equation?",
+          "answers": [
+            "Straight line",
+            "Circle",
+            "Parabola",
+            "Hyperbola"
+          ],
+          "correctIndex": 2,
+          "explanation": "Graphing a quadratic function y = ax^2 + bx + c produces a characteristic U-shaped curve known as a parabola."
+        }
+      ],
+      "status": "live",
+      "attempts": 0,
+      "avgScore": null,
+      "createdAt": "2026-09-13T14:46:39.199Z"
+    },
+    {
+      "id": "1789310870497-8wcdp",
+      "title": "Introduction to Quadratic Equations",
+      "topic": "Introduction to quadratic equations",
+      "difficulty": "Balanced mix",
+      "questionCount": 10,
+      "questionTypes": [
+        "Multiple choice"
+      ],
+      "questions": [
+        {
+          "id": "1-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "What is the standard form of a quadratic equation?",
+          "answers": [
+            "ax^2 + bx + c = 0",
+            "ax + b = 0",
+            "ax^3 + bx^2 + cx + d = 0",
+            "a/x + b = c"
+          ],
+          "correctIndex": 0,
+          "explanation": "The standard form of a quadratic equation is ax^2 + bx + c = 0, where a, b, and c are constants and a is not equal to 0."
+        },
+        {
+          "id": "2-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "In the quadratic equation 3x^2 - 5x + 2 = 0, what are the values of a, b, and c?",
+          "answers": [
+            "a = 3, b = 5, c = 2",
+            "a = 3, b = -5, c = 2",
+            "a = -5, b = 3, c = 2",
+            "a = 3, b = -5, c = -2"
+          ],
+          "correctIndex": 1,
+          "explanation": "Comparing 3x^2 - 5x + 2 = 0 to standard form ax^2 + bx + c = 0 gives a = 3, b = -5, and c = 2."
+        },
+        {
+          "id": "3-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "What is the degree of a quadratic equation?",
+          "answers": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "correctIndex": 1,
+          "explanation": "A quadratic equation is a polynomial equation of degree 2 because the highest exponent of the variable is 2."
+        },
+        {
+          "id": "4-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "What is the shape of the graph of a quadratic function called?",
+          "answers": [
+            "Line",
+            "Circle",
+            "Parabola",
+            "Hyperbola"
+          ],
+          "correctIndex": 2,
+          "explanation": "The graph of any quadratic function forms a U-shaped curve known as a parabola."
+        },
+        {
+          "id": "5-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "What are the real solutions to the equation x^2 - 16 = 0?",
+          "answers": [
+            "x = 4 only",
+            "x = -4 only",
+            "x = 4 and x = -4",
+            "x = 16 and x = -16"
+          ],
+          "correctIndex": 2,
+          "explanation": "Adding 16 to both sides gives x^2 = 16. Taking the square root of both sides gives x = 4 and x = -4."
+        },
+        {
+          "id": "6-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "According to the Zero Product Property, if (x - 3)(x + 5) = 0, what are the solutions for x?",
+          "answers": [
+            "x = 3 and x = 5",
+            "x = -3 and x = 5",
+            "x = 3 and x = -5",
+            "x = -3 and x = -5"
+          ],
+          "correctIndex": 2,
+          "explanation": "Setting each factor to zero gives x - 3 = 0 (so x = 3) and x + 5 = 0 (so x = -5)."
+        },
+        {
+          "id": "7-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "In the standard quadratic equation ax^2 + bx + c = 0, why must 'a' not equal zero?",
+          "answers": [
+            "Because the equation would have no constants",
+            "Because it would become a linear equation bx + c = 0",
+            "Because zero cannot be multiplied by x",
+            "Because the equation would become cubic"
+          ],
+          "correctIndex": 1,
+          "explanation": "If a = 0, the squared term disappears, leaving bx + c = 0, which is a first-degree (linear) equation."
+        },
+        {
+          "id": "8-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "Which expression represents the discriminant of a quadratic equation ax^2 + bx + c = 0?",
+          "answers": [
+            "b^2 + 4ac",
+            "b^2 - 4ac",
+            "2a / b",
+            "b / (2a)"
+          ],
+          "correctIndex": 1,
+          "explanation": "The discriminant is given by b^2 - 4ac, which determines the nature and number of real solutions."
+        },
+        {
+          "id": "9-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "How many real solutions does a quadratic equation have if its discriminant (b^2 - 4ac) is negative?",
+          "answers": [
+            "Two distinct real solutions",
+            "One repeated real solution",
+            "Zero real solutions",
+            "Infinitely many real solutions"
+          ],
+          "correctIndex": 2,
+          "explanation": "A negative discriminant means taking the square root of a negative number in the quadratic formula, yielding no real solutions."
+        },
+        {
+          "id": "10-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "What are the solutions to the equation x^2 - 7x + 12 = 0?",
+          "answers": [
+            "x = 3 and x = 4",
+            "x = -3 and x = -4",
+            "x = 2 and x = 6",
+            "x = -2 and x = -6"
+          ],
+          "correctIndex": 0,
+          "explanation": "Factoring the quadratic yields (x - 3)(x - 4) = 0. Setting each factor equal to zero gives solutions x = 3 and x = 4."
+        }
+      ],
+      "status": "live",
+      "attempts": 0,
+      "avgScore": null,
+      "createdAt": "2026-09-13T14:47:50.498Z"
+    },
+    {
+      "id": "1789310893936-p699b",
+      "title": "Introduction to quadratic equations",
+      "topic": "Introduction to quadratic equations",
+      "difficulty": "Balanced mix",
+      "questionCount": 10,
+      "questionTypes": [
+        "Multiple choice"
+      ],
+      "questions": [
+        {
+          "id": "1-mc",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "What is the most important idea to remember about Introduction to quadratic equations?",
+          "answers": [
+            "A core idea connected to Introduction to quadratic equations",
+            "A detail unrelated to the lesson",
+            "A conclusion that contradicts the lesson",
+            "A topic from a different subject"
+          ],
+          "correctIndex": 0,
+          "explanation": "The first option is the one directly connected to Introduction to quadratic equations."
+        },
+        {
+          "id": "2-mc",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "Which statement best explains Introduction to quadratic equations?",
+          "answers": [
+            "A core idea connected to Introduction to quadratic equations",
+            "A detail unrelated to the lesson",
+            "A conclusion that contradicts the lesson",
+            "A topic from a different subject"
+          ],
+          "correctIndex": 0,
+          "explanation": "The first option is the one directly connected to Introduction to quadratic equations."
+        },
+        {
+          "id": "3-mc",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "Which example would help a student apply Introduction to quadratic equations?",
+          "answers": [
+            "A core idea connected to Introduction to quadratic equations",
+            "A detail unrelated to the lesson",
+            "A conclusion that contradicts the lesson",
+            "A topic from a different subject"
+          ],
+          "correctIndex": 0,
+          "explanation": "The first option is the one directly connected to Introduction to quadratic equations."
+        },
+        {
+          "id": "4-mc",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "Why does Introduction to quadratic equations matter in this lesson?",
+          "answers": [
+            "A core idea connected to Introduction to quadratic equations",
+            "A detail unrelated to the lesson",
+            "A conclusion that contradicts the lesson",
+            "A topic from a different subject"
+          ],
+          "correctIndex": 0,
+          "explanation": "The first option is the one directly connected to Introduction to quadratic equations."
+        },
+        {
+          "id": "5-mc",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "Which summary would a teacher most likely use for Introduction to quadratic equations?",
+          "answers": [
+            "A core idea connected to Introduction to quadratic equations",
+            "A detail unrelated to the lesson",
+            "A conclusion that contradicts the lesson",
+            "A topic from a different subject"
+          ],
+          "correctIndex": 0,
+          "explanation": "The first option is the one directly connected to Introduction to quadratic equations."
+        },
+        {
+          "id": "6-mc",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "What is the most important idea to remember about Introduction to quadratic equations?",
+          "answers": [
+            "A core idea connected to Introduction to quadratic equations",
+            "A detail unrelated to the lesson",
+            "A conclusion that contradicts the lesson",
+            "A topic from a different subject"
+          ],
+          "correctIndex": 0,
+          "explanation": "The first option is the one directly connected to Introduction to quadratic equations."
+        },
+        {
+          "id": "7-mc",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "Which statement best explains Introduction to quadratic equations?",
+          "answers": [
+            "A core idea connected to Introduction to quadratic equations",
+            "A detail unrelated to the lesson",
+            "A conclusion that contradicts the lesson",
+            "A topic from a different subject"
+          ],
+          "correctIndex": 0,
+          "explanation": "The first option is the one directly connected to Introduction to quadratic equations."
+        },
+        {
+          "id": "8-mc",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "Which example would help a student apply Introduction to quadratic equations?",
+          "answers": [
+            "A core idea connected to Introduction to quadratic equations",
+            "A detail unrelated to the lesson",
+            "A conclusion that contradicts the lesson",
+            "A topic from a different subject"
+          ],
+          "correctIndex": 0,
+          "explanation": "The first option is the one directly connected to Introduction to quadratic equations."
+        },
+        {
+          "id": "9-mc",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "Why does Introduction to quadratic equations matter in this lesson?",
+          "answers": [
+            "A core idea connected to Introduction to quadratic equations",
+            "A detail unrelated to the lesson",
+            "A conclusion that contradicts the lesson",
+            "A topic from a different subject"
+          ],
+          "correctIndex": 0,
+          "explanation": "The first option is the one directly connected to Introduction to quadratic equations."
+        },
+        {
+          "id": "10-mc",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "Which summary would a teacher most likely use for Introduction to quadratic equations?",
+          "answers": [
+            "A core idea connected to Introduction to quadratic equations",
+            "A detail unrelated to the lesson",
+            "A conclusion that contradicts the lesson",
+            "A topic from a different subject"
+          ],
+          "correctIndex": 0,
+          "explanation": "The first option is the one directly connected to Introduction to quadratic equations."
+        }
+      ],
+      "status": "draft",
+      "attempts": 0,
+      "avgScore": null,
+      "createdAt": "2026-09-13T14:48:13.936Z"
+    },
+    {
+      "id": "1789313168653-kl02j",
+      "title": "The Water Cycle and Weather Patterns Quiz",
+      "topic": "The water cycle and weather patterns",
+      "difficulty": "Balanced mix",
+      "questionCount": 10,
+      "questionTypes": [
+        "Multiple choice"
+      ],
+      "questions": [
+        {
+          "id": "1-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "What process converts liquid water on Earth's surface into water vapor in the atmosphere using heat from the Sun?",
+          "answers": [
+            "Evaporation",
+            "Condensation",
+            "Precipitation",
+            "Transpiration"
+          ],
+          "correctIndex": 0,
+          "explanation": "Evaporation occurs when radiant heat energy from the Sun transforms surface liquid water into gaseous water vapor."
+        },
+        {
+          "id": "2-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "Which process in the water cycle directly leads to the formation of clouds?",
+          "answers": [
+            "Evaporation",
+            "Condensation",
+            "Sublimation",
+            "Runoff"
+          ],
+          "correctIndex": 1,
+          "explanation": "As warm water vapor rises and cools in the upper atmosphere, it condenses into liquid water droplets or ice crystals, forming clouds."
+        },
+        {
+          "id": "3-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "What is the term for the release of water vapor into the air from plant leaves?",
+          "answers": [
+            "Evaporation",
+            "Transpiration",
+            "Percolation",
+            "Precipitation"
+          ],
+          "correctIndex": 1,
+          "explanation": "Transpiration is the process by which plants absorb water through their roots and release water vapor through stomata in their leaves."
+        },
+        {
+          "id": "4-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "Which instrument is used to measure air pressure to help meteorologists predict weather changes?",
+          "answers": [
+            "Thermometer",
+            "Anemometer",
+            "Barometer",
+            "Hygrometer"
+          ],
+          "correctIndex": 2,
+          "explanation": "A barometer measures atmospheric pressure. Dropping pressure often indicates approaching storm systems."
+        },
+        {
+          "id": "5-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "What occurs when water drops in clouds become too heavy and fall to Earth as rain, snow, sleet, or hail?",
+          "answers": [
+            "Condensation",
+            "Infiltration",
+            "Precipitation",
+            "Accumulation"
+          ],
+          "correctIndex": 2,
+          "explanation": "Precipitation is any form of water that falls from clouds to the Earth's surface under gravity."
+        },
+        {
+          "id": "6-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "What serves as the primary energy source driving the water cycle?",
+          "answers": [
+            "Earth's core",
+            "The Sun",
+            "Ocean currents",
+            "Wind patterns"
+          ],
+          "correctIndex": 1,
+          "explanation": "Solar energy powers the water cycle by heating liquid water, causing evaporation, and driving wind patterns."
+        },
+        {
+          "id": "7-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "What type of front forms when a cold air mass advances and displaces a warm air mass, often bringing sharp drops in temperature and heavy rain or thunderstorms?",
+          "answers": [
+            "Warm front",
+            "Cold front",
+            "Stationary front",
+            "Occluded front"
+          ],
+          "correctIndex": 1,
+          "explanation": "Cold fronts occur when dense cold air pushes beneath warm air, lifting it rapidly and frequently creating severe weather or thunderheads."
+        },
+        {
+          "id": "8-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "What is the term for water soaking downward from the surface into the soil and rock layers?",
+          "answers": [
+            "Infiltration",
+            "Evaporation",
+            "Runoff",
+            "Sublimation"
+          ],
+          "correctIndex": 0,
+          "explanation": "Infiltration is the movement of surface water into the ground, where it replenishes soil moisture and groundwater reservoirs."
+        },
+        {
+          "id": "9-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "High-altitude, thin, wispy clouds composed mostly of ice crystals are classified as which type of cloud?",
+          "answers": [
+            "Cumulus",
+            "Stratus",
+            "Cirrus",
+            "Cumulonimbus"
+          ],
+          "correctIndex": 2,
+          "explanation": "Cirrus clouds form at high altitudes where temperatures are very low, resulting in wispy cloud formations composed of ice crystals."
+        },
+        {
+          "id": "10-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "How do Earth's oceans significantly influence global weather patterns and climate?",
+          "answers": [
+            "By preventing evaporation over land masses",
+            "By absorbing and distributing solar heat around the planet",
+            "By holding air pressure completely steady worldwide",
+            "By stopping wind currents from forming"
+          ],
+          "correctIndex": 1,
+          "explanation": "Oceans absorb massive amounts of solar energy and transport warm and cool water around the globe via ocean currents, heavily shaping regional climates."
+        }
+      ],
+      "status": "live",
+      "attempts": 0,
+      "avgScore": null,
+      "createdAt": "2026-09-13T15:26:08.653Z"
+    },
+    {
+      "id": "1789311447077-79jd6",
+      "title": "Solar System Planetary Motion Quiz",
+      "topic": "Solar system planetary motion",
+      "difficulty": "Balanced mix",
+      "questionCount": 10,
+      "questionTypes": [
+        "Multiple choice",
+        "True / false"
+      ],
+      "questions": [
+        {
+          "id": "1-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "Kepler's First Law states that the orbits of planets around the Sun are what geometric shape?",
+          "answers": [
+            "Perfect circles",
+            "Ellipses",
+            "Parabolas",
+            "Hyperbolas"
+          ],
+          "correctIndex": 1,
+          "explanation": "Kepler's First Law of Planetary Motion states that every planet's orbit is an ellipse with the Sun located at one of the two foci."
+        },
+        {
+          "id": "2-true-false",
+          "type": "True / false",
+          "difficulty": "Balanced mix",
+          "prompt": "A planet moves faster along its orbit when it is closer to the Sun.",
+          "answers": [
+            "True",
+            "False"
+          ],
+          "correctIndex": 0,
+          "explanation": "According to Kepler's Second Law, a line segment joining a planet and the Sun sweeps out equal areas during equal intervals of time, causing planets to travel faster near perihelion."
+        },
+        {
+          "id": "3-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "What is the term for the point in a planet's orbit where it is farthest from the Sun?",
+          "answers": [
+            "Perihelion",
+            "Aphelion",
+            "Perigee",
+            "Apogee"
+          ],
+          "correctIndex": 1,
+          "explanation": "Aphelion is the specific point in an astronomical orbit where a body is farthest from the Sun. Perihelion is the closest point."
+        },
+        {
+          "id": "4-true-false",
+          "type": "True / false",
+          "difficulty": "Balanced mix",
+          "prompt": "Outer gas giant planets have shorter orbital periods than inner terrestrial planets.",
+          "answers": [
+            "True",
+            "False"
+          ],
+          "correctIndex": 1,
+          "explanation": "Kepler's Third Law dictates that planets farther from the Sun have much larger orbital paths and lower orbital speeds, resulting in significantly longer orbital periods."
+        },
+        {
+          "id": "5-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "What apparent motion causes an outer planet to temporarily appear to move backward across the sky relative to background stars?",
+          "answers": [
+            "Precession",
+            "Orbital decay",
+            "Apparent retrograde motion",
+            "Synchronous rotation"
+          ],
+          "correctIndex": 2,
+          "explanation": "Apparent retrograde motion occurs when Earth overtakes a slower-moving outer planet in its orbit, creating an optical illusion where the outer planet appears to reverse direction."
+        },
+        {
+          "id": "6-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "Which force provides the necessary centripetal acceleration to keep planets in orbit around the Sun?",
+          "answers": [
+            "Electromagnetic force",
+            "Gravitational force",
+            "Strong nuclear force",
+            "Centrifugal force"
+          ],
+          "correctIndex": 1,
+          "explanation": "The gravitational attraction between the mass of the Sun and the mass of a planet supplies the force that bends the planet's path into an elliptical orbit."
+        },
+        {
+          "id": "7-true-false",
+          "type": "True / false",
+          "difficulty": "Balanced mix",
+          "prompt": "All planets in the solar system orbit the Sun in exactly the same flat plane with zero inclination.",
+          "answers": [
+            "True",
+            "False"
+          ],
+          "correctIndex": 1,
+          "explanation": "While planetary orbits lie close to the ecliptic plane, each planet has a slight orbital inclination angle relative to Earth's orbital plane."
+        },
+        {
+          "id": "8-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "According to Kepler's Third Law, the square of a planet's orbital period is proportional to what value?",
+          "answers": [
+            "The planet's mass cubed",
+            "The planet's surface area squared",
+            "The semi-major axis of its orbit cubed",
+            "The Sun's rotational period"
+          ],
+          "correctIndex": 2,
+          "explanation": "Kepler's Third Law establishes that the square of the orbital period (T) is directly proportional to the cube of the semi-major axis (a) of its orbit (T^2 = a^3)."
+        },
+        {
+          "id": "9-true-false",
+          "type": "True / false",
+          "difficulty": "Balanced mix",
+          "prompt": "When viewed from high above Earth's North Pole, all planets revolve around the Sun in a counterclockwise direction.",
+          "answers": [
+            "True",
+            "False"
+          ],
+          "correctIndex": 0,
+          "explanation": "All eight planets orbit the Sun in a prograde (counterclockwise) direction when observed from above the northern hemisphere of the solar system."
+        },
+        {
+          "id": "10-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "Which planet takes the longest time to complete one full revolution around the Sun?",
+          "answers": [
+            "Mercury",
+            "Jupiter",
+            "Uranus",
+            "Neptune"
+          ],
+          "correctIndex": 3,
+          "explanation": "Neptune is the farthest planet from the Sun, giving it the largest orbital semi-major axis and the longest period of revolution at roughly 165 Earth years."
+        }
+      ],
+      "status": "live",
+      "attempts": 0,
+      "avgScore": null,
+      "createdAt": "2026-09-13T14:57:27.077Z"
+    },
+    {
+      "id": "1789310651236-old60",
+      "title": "Cellular Respiration and ATP Production Quiz",
+      "topic": "Cellular respiration and ATP production",
+      "difficulty": "Balanced mix",
+      "questionCount": 10,
+      "questionTypes": [
+        "Multiple choice",
+        "True / false"
+      ],
+      "questions": [
+        {
+          "id": "1-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "What is the primary energy molecule produced during cellular respiration?",
+          "answers": [
+            "Glucose",
+            "ATP",
+            "Pyruvate",
+            "NADH"
+          ],
+          "correctIndex": 1,
+          "explanation": "ATP (adenosine triphosphate) is the main energy currency of the cell generated during cellular respiration."
+        },
+        {
+          "id": "2-true-false",
+          "type": "True / false",
+          "difficulty": "Balanced mix",
+          "prompt": "Glycolysis occurs inside the mitochondrial matrix.",
+          "answers": [
+            "True",
+            "False"
+          ],
+          "correctIndex": 1,
+          "explanation": "Glycolysis takes place in the cytoplasm of the cell, outside of the mitochondria."
+        },
+        {
+          "id": "3-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "Which stage of cellular respiration produces the highest amount of ATP?",
+          "answers": [
+            "Glycolysis",
+            "Citric Acid Cycle",
+            "Electron Transport Chain",
+            "Fermentation"
+          ],
+          "correctIndex": 2,
+          "explanation": "The Electron Transport Chain generates the vast majority of ATP (around 30 to 32 molecules) through oxidative phosphorylation."
+        },
+        {
+          "id": "4-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "What is the initial 6-carbon sugar required to start glycolysis?",
+          "answers": [
+            "Sucrose",
+            "Fructose",
+            "Glucose",
+            "Ribose"
+          ],
+          "correctIndex": 2,
+          "explanation": "Glycolysis begins with one 6-carbon glucose molecule, which is broken down into two 3-carbon pyruvate molecules."
+        },
+        {
+          "id": "5-true-false",
+          "type": "True / false",
+          "difficulty": "Balanced mix",
+          "prompt": "Oxygen acts as the final electron acceptor at the end of the electron transport chain.",
+          "answers": [
+            "True",
+            "False"
+          ],
+          "correctIndex": 0,
+          "explanation": "Oxygen accepts low-energy electrons and hydrogen ions at the end of the chain to form water."
+        },
+        {
+          "id": "6-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "Before entering the Krebs cycle, pyruvate is converted into which 2-carbon molecule?",
+          "answers": [
+            "Acetyl-CoA",
+            "Lactate",
+            "Oxaloacetate",
+            "Citrate"
+          ],
+          "correctIndex": 0,
+          "explanation": "Pyruvate undergoes oxidation upon entering the mitochondria to form Acetyl-CoA."
+        },
+        {
+          "id": "7-true-false",
+          "type": "True / false",
+          "difficulty": "Balanced mix",
+          "prompt": "Fermentation produces more ATP per glucose molecule than aerobic cellular respiration.",
+          "answers": [
+            "True",
+            "False"
+          ],
+          "correctIndex": 1,
+          "explanation": "Fermentation yields only 2 ATP per glucose molecule, whereas aerobic respiration yields around 30 to 32 ATP."
+        },
+        {
+          "id": "8-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "Which membrane-bound enzyme uses a proton gradient to synthesize ATP?",
+          "answers": [
+            "Rubisco",
+            "ATP synthase",
+            "DNA polymerase",
+            "Amylase"
+          ],
+          "correctIndex": 1,
+          "explanation": "ATP synthase converts the kinetic energy of protons flowing down their concentration gradient into chemical energy stored in ATP."
+        },
+        {
+          "id": "9-true-false",
+          "type": "True / false",
+          "difficulty": "Balanced mix",
+          "prompt": "The Krebs cycle (citric acid cycle) takes place in the mitochondrial matrix.",
+          "answers": [
+            "True",
+            "False"
+          ],
+          "correctIndex": 0,
+          "explanation": "The enzymes necessary for the Krebs cycle are located in the fluid-filled mitochondrial matrix."
+        },
+        {
+          "id": "10-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "What are the primary chemical end products of complete aerobic cellular respiration?",
+          "answers": [
+            "Glucose and Oxygen",
+            "Carbon dioxide, Water, and ATP",
+            "Lactic acid and NAD+",
+            "Pyruvate and Acetyl-CoA"
+          ],
+          "correctIndex": 1,
+          "explanation": "Aerobic respiration breaks down glucose using oxygen to generate carbon dioxide, water, and ATP."
+        }
+      ],
+      "status": "live",
+      "attempts": 0,
+      "avgScore": null,
+      "createdAt": "2026-09-13T14:44:11.236Z"
+    },
+    {
+      "id": "1789310142238-qp8ex",
+      "title": "Python",
+      "topic": "python",
+      "difficulty": "Challenging",
+      "questionCount": 10,
+      "questionTypes": [
+        "Multiple choice"
+      ],
+      "questions": [
+        {
+          "id": "1-mc",
+          "type": "Multiple choice",
+          "difficulty": "Challenging",
+          "prompt": "What is the most important idea to remember about python?",
+          "answers": [
+            "A core idea connected to python",
+            "A detail unrelated to the lesson",
+            "A conclusion that contradicts the lesson",
+            "A topic from a different subject"
+          ],
+          "correctIndex": 0,
+          "explanation": "The first option is the one directly connected to python."
+        },
+        {
+          "id": "2-mc",
+          "type": "Multiple choice",
+          "difficulty": "Challenging",
+          "prompt": "Which statement best explains python?",
+          "answers": [
+            "A core idea connected to python",
+            "A detail unrelated to the lesson",
+            "A conclusion that contradicts the lesson",
+            "A topic from a different subject"
+          ],
+          "correctIndex": 0,
+          "explanation": "The first option is the one directly connected to python."
+        },
+        {
+          "id": "3-mc",
+          "type": "Multiple choice",
+          "difficulty": "Challenging",
+          "prompt": "Which example would help a student apply python?",
+          "answers": [
+            "A core idea connected to python",
+            "A detail unrelated to the lesson",
+            "A conclusion that contradicts the lesson",
+            "A topic from a different subject"
+          ],
+          "correctIndex": 0,
+          "explanation": "The first option is the one directly connected to python."
+        },
+        {
+          "id": "4-mc",
+          "type": "Multiple choice",
+          "difficulty": "Challenging",
+          "prompt": "Why does python matter in this lesson?",
+          "answers": [
+            "A core idea connected to python",
+            "A detail unrelated to the lesson",
+            "A conclusion that contradicts the lesson",
+            "A topic from a different subject"
+          ],
+          "correctIndex": 0,
+          "explanation": "The first option is the one directly connected to python."
+        },
+        {
+          "id": "5-mc",
+          "type": "Multiple choice",
+          "difficulty": "Challenging",
+          "prompt": "Which summary would a teacher most likely use for python?",
+          "answers": [
+            "A core idea connected to python",
+            "A detail unrelated to the lesson",
+            "A conclusion that contradicts the lesson",
+            "A topic from a different subject"
+          ],
+          "correctIndex": 0,
+          "explanation": "The first option is the one directly connected to python."
+        },
+        {
+          "id": "6-mc",
+          "type": "Multiple choice",
+          "difficulty": "Challenging",
+          "prompt": "What is the most important idea to remember about python?",
+          "answers": [
+            "A core idea connected to python",
+            "A detail unrelated to the lesson",
+            "A conclusion that contradicts the lesson",
+            "A topic from a different subject"
+          ],
+          "correctIndex": 0,
+          "explanation": "The first option is the one directly connected to python."
+        },
+        {
+          "id": "7-mc",
+          "type": "Multiple choice",
+          "difficulty": "Challenging",
+          "prompt": "Which statement best explains python?",
+          "answers": [
+            "A core idea connected to python",
+            "A detail unrelated to the lesson",
+            "A conclusion that contradicts the lesson",
+            "A topic from a different subject"
+          ],
+          "correctIndex": 0,
+          "explanation": "The first option is the one directly connected to python."
+        },
+        {
+          "id": "8-mc",
+          "type": "Multiple choice",
+          "difficulty": "Challenging",
+          "prompt": "Which example would help a student apply python?",
+          "answers": [
+            "A core idea connected to python",
+            "A detail unrelated to the lesson",
+            "A conclusion that contradicts the lesson",
+            "A topic from a different subject"
+          ],
+          "correctIndex": 0,
+          "explanation": "The first option is the one directly connected to python."
+        },
+        {
+          "id": "9-mc",
+          "type": "Multiple choice",
+          "difficulty": "Challenging",
+          "prompt": "Why does python matter in this lesson?",
+          "answers": [
+            "A core idea connected to python",
+            "A detail unrelated to the lesson",
+            "A conclusion that contradicts the lesson",
+            "A topic from a different subject"
+          ],
+          "correctIndex": 0,
+          "explanation": "The first option is the one directly connected to python."
+        },
+        {
+          "id": "10-mc",
+          "type": "Multiple choice",
+          "difficulty": "Challenging",
+          "prompt": "Which summary would a teacher most likely use for python?",
+          "answers": [
+            "A core idea connected to python",
+            "A detail unrelated to the lesson",
+            "A conclusion that contradicts the lesson",
+            "A topic from a different subject"
+          ],
+          "correctIndex": 0,
+          "explanation": "The first option is the one directly connected to python."
+        }
+      ],
+      "status": "live",
+      "attempts": 0,
+      "avgScore": null,
+      "createdAt": "2026-09-13T14:35:42.239Z"
+    },
+    {
+      "id": "1789296235247-pk5n1",
+      "title": "Introduction to Quadratic Equations",
+      "topic": "Introduction to quadratic equations",
+      "difficulty": "Balanced mix",
+      "questionCount": 10,
+      "questionTypes": [
+        "Multiple choice",
+        "True / false"
+      ],
+      "questions": [
+        {
+          "id": "1-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "What is the standard form of a quadratic equation?",
+          "answers": [
+            "ax^2 + bx + c = 0",
+            "ax + b = 0",
+            "ax^3 + bx^2 + cx + d = 0",
+            "a/x^2 + b/x + c = 0"
+          ],
+          "correctIndex": 0,
+          "explanation": "The standard form of a quadratic equation is ax^2 + bx + c = 0, where a, b, and c are constants and a is not equal to 0."
+        },
+        {
+          "id": "2-true-false",
+          "type": "True / false",
+          "difficulty": "Balanced mix",
+          "prompt": "In the quadratic equation ax^2 + bx + c = 0, the coefficient 'a' can be equal to zero.",
+          "answers": [
+            "True",
+            "False"
+          ],
+          "correctIndex": 1,
+          "explanation": "If 'a' were zero, the x^2 term would disappear, turning the equation into a linear equation rather than a quadratic one."
+        },
+        {
+          "id": "3-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "Which of the following equations is a quadratic equation?",
+          "answers": [
+            "2x + 5 = 0",
+            "x^2 - 4x + 4 = 0",
+            "x^3 - 2x = 0",
+            "3x + 4y = 12"
+          ],
+          "correctIndex": 1,
+          "explanation": "A quadratic equation must be a polynomial equation of degree 2. The equation x^2 - 4x + 4 = 0 has a highest exponent of 2."
+        },
+        {
+          "id": "4-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "What is the formula for the discriminant of a quadratic equation ax^2 + bx + c = 0?",
+          "answers": [
+            "b^2 - 4ac",
+            "b^2 + 4ac",
+            "(-b ± √(b^2 - 4ac)) / (2a)",
+            "2a / b"
+          ],
+          "correctIndex": 0,
+          "explanation": "The discriminant is given by the expression b^2 - 4ac, which determines the number and nature of the roots."
+        },
+        {
+          "id": "5-true-false",
+          "type": "True / false",
+          "difficulty": "Balanced mix",
+          "prompt": "A quadratic equation can have at most two real roots.",
+          "answers": [
+            "True",
+            "False"
+          ],
+          "correctIndex": 0,
+          "explanation": "Because a quadratic equation has a degree of 2, it can have at most two real solutions."
+        },
+        {
+          "id": "6-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "What are the solutions to the equation x^2 - 9 = 0?",
+          "answers": [
+            "x = 3 and x = -3",
+            "x = 9 and x = -9",
+            "x = 3 only",
+            "x = 81"
+          ],
+          "correctIndex": 0,
+          "explanation": "Adding 9 to both sides gives x^2 = 9. Taking the square root of both sides gives x = 3 and x = -3."
+        },
+        {
+          "id": "7-true-false",
+          "type": "True / false",
+          "difficulty": "Balanced mix",
+          "prompt": "If the discriminant (b^2 - 4ac) is negative, the quadratic equation has two distinct real roots.",
+          "answers": [
+            "True",
+            "False"
+          ],
+          "correctIndex": 1,
+          "explanation": "A negative discriminant means there are no real roots; instead, the equation has two complex (imaginary) roots."
+        },
+        {
+          "id": "8-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "What are the roots of the quadratic equation (x - 2)(x + 5) = 0?",
+          "answers": [
+            "x = 2 and x = -5",
+            "x = -2 and x = 5",
+            "x = 2 and x = 5",
+            "x = -2 and x = -5"
+          ],
+          "correctIndex": 0,
+          "explanation": "Using the zero product property, set each factor to zero: x - 2 = 0 gives x = 2, and x + 5 = 0 gives x = -5."
+        },
+        {
+          "id": "9-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "Which formula is the correct quadratic formula used to solve ax^2 + bx + c = 0?",
+          "answers": [
+            "x = (-b ± √(b^2 - 4ac)) / (2a)",
+            "x = (b ± √(b^2 - 4ac)) / (2a)",
+            "x = (-b ± √(b^2 + 4ac)) / (2a)",
+            "x = (-b ± √(b^2 - 4ac)) / a"
+          ],
+          "correctIndex": 0,
+          "explanation": "The quadratic formula is x = (-b ± √(b^2 - 4ac)) / (2a), which works for any quadratic equation in standard form."
+        },
+        {
+          "id": "10-true-false",
+          "type": "True / false",
+          "difficulty": "Balanced mix",
+          "prompt": "The graph of a quadratic function is a U-shaped curve called a parabola.",
+          "answers": [
+            "True",
+            "False"
+          ],
+          "correctIndex": 0,
+          "explanation": "The graph of any quadratic function y = ax^2 + bx + c forms a U-shaped curve known as a parabola."
+        }
+      ],
+      "status": "live",
+      "attempts": 0,
+      "avgScore": null,
+      "createdAt": "2026-09-13T10:43:55.248Z"
+    },
+    {
+      "id": "1789295340529-708su",
+      "title": "Python",
+      "topic": "python",
+      "difficulty": "Balanced mix",
+      "questionCount": 10,
+      "questionTypes": [
+        "Multiple choice",
+        "True / false"
+      ],
+      "questions": [
+        {
+          "id": "1-mc",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "What is the most important idea to remember about python?",
+          "answers": [
+            "A core idea connected to python",
+            "A detail unrelated to the lesson",
+            "A conclusion that contradicts the lesson",
+            "A topic from a different subject"
+          ],
+          "correctIndex": 0,
+          "explanation": "The first option is the one directly connected to python."
+        },
+        {
+          "id": "2-tf",
+          "type": "True / false",
+          "difficulty": "Balanced mix",
+          "prompt": "True or false: python is a key concept in this quiz.",
+          "answers": [
+            "True",
+            "False"
+          ],
+          "correctIndex": 0,
+          "explanation": "python is the focus of this learning check."
+        },
+        {
+          "id": "3-mc",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "Which example would help a student apply python?",
+          "answers": [
+            "A core idea connected to python",
+            "A detail unrelated to the lesson",
+            "A conclusion that contradicts the lesson",
+            "A topic from a different subject"
+          ],
+          "correctIndex": 0,
+          "explanation": "The first option is the one directly connected to python."
+        },
+        {
+          "id": "4-tf",
+          "type": "True / false",
+          "difficulty": "Balanced mix",
+          "prompt": "True or false: python is a key concept in this quiz.",
+          "answers": [
+            "True",
+            "False"
+          ],
+          "correctIndex": 0,
+          "explanation": "python is the focus of this learning check."
+        },
+        {
+          "id": "5-mc",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "Which summary would a teacher most likely use for python?",
+          "answers": [
+            "A core idea connected to python",
+            "A detail unrelated to the lesson",
+            "A conclusion that contradicts the lesson",
+            "A topic from a different subject"
+          ],
+          "correctIndex": 0,
+          "explanation": "The first option is the one directly connected to python."
+        },
+        {
+          "id": "6-tf",
+          "type": "True / false",
+          "difficulty": "Balanced mix",
+          "prompt": "True or false: python is a key concept in this quiz.",
+          "answers": [
+            "True",
+            "False"
+          ],
+          "correctIndex": 0,
+          "explanation": "python is the focus of this learning check."
+        },
+        {
+          "id": "7-mc",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "Which statement best explains python?",
+          "answers": [
+            "A core idea connected to python",
+            "A detail unrelated to the lesson",
+            "A conclusion that contradicts the lesson",
+            "A topic from a different subject"
+          ],
+          "correctIndex": 0,
+          "explanation": "The first option is the one directly connected to python."
+        },
+        {
+          "id": "8-tf",
+          "type": "True / false",
+          "difficulty": "Balanced mix",
+          "prompt": "True or false: python is a key concept in this quiz.",
+          "answers": [
+            "True",
+            "False"
+          ],
+          "correctIndex": 0,
+          "explanation": "python is the focus of this learning check."
+        },
+        {
+          "id": "9-mc",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "Why does python matter in this lesson?",
+          "answers": [
+            "A core idea connected to python",
+            "A detail unrelated to the lesson",
+            "A conclusion that contradicts the lesson",
+            "A topic from a different subject"
+          ],
+          "correctIndex": 0,
+          "explanation": "The first option is the one directly connected to python."
+        },
+        {
+          "id": "10-tf",
+          "type": "True / false",
+          "difficulty": "Balanced mix",
+          "prompt": "True or false: python is a key concept in this quiz.",
+          "answers": [
+            "True",
+            "False"
+          ],
+          "correctIndex": 0,
+          "explanation": "python is the focus of this learning check."
+        }
+      ],
+      "status": "live",
+      "attempts": 0,
+      "avgScore": null,
+      "createdAt": "2026-09-13T10:29:00.530Z"
+    },
+    {
+      "id": "1789311551385-r9uo6",
+      "title": "Introduction to Quadratic Equations",
+      "topic": "Introduction to quadratic equations",
+      "difficulty": "Balanced mix",
+      "questionCount": 10,
+      "questionTypes": [
+        "Multiple choice",
+        "True / false"
+      ],
+      "questions": [
+        {
+          "id": "1-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "What is the standard form of a quadratic equation?",
+          "answers": [
+            "ax^2 + bx + c = 0",
+            "ax + b = 0",
+            "ax^3 + bx^2 + cx + d = 0",
+            "a/x^2 + b/x + c = 0"
+          ],
+          "correctIndex": 0,
+          "explanation": "The standard form of a quadratic equation is ax^2 + bx + c = 0, where a, b, and c are real numbers and a is not equal to 0."
+        },
+        {
+          "id": "2-true-false",
+          "type": "True / false",
+          "difficulty": "Balanced mix",
+          "prompt": "A quadratic equation always has a degree of 2.",
+          "answers": [
+            "True",
+            "False"
+          ],
+          "correctIndex": 0,
+          "explanation": "The defining characteristic of a quadratic equation is that the highest exponent of the variable is 2."
+        },
+        {
+          "id": "3-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "In the quadratic equation 3x^2 - 5x + 2 = 0, what is the value of coefficient 'a'?",
+          "answers": [
+            "3带有",
+            "3",
+            " -5",
+            "2"
+          ],
+          "correctIndex": 1,
+          "explanation": "In standard form ax^2 + bx + c = 0, 'a' is the coefficient of x^2, which is 3 in this equation."
+        },
+        {
+          "id": "4-true-false",
+          "type": "True / false",
+          "difficulty": "Balanced mix",
+          "prompt": "According to the zero product property, if ab = 0, then both a and b must equal zero.",
+          "answers": [
+            "True",
+            "False"
+          ],
+          "correctIndex": 1,
+          "explanation": "The zero product property states that if ab = 0, then at least one of the factors (a, b, or both) must be zero."
+        },
+        {
+          "id": "5-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "Which of the following represents the correct Quadratic Formula?",
+          "answers": [
+            "x = (-b ± √(b^2 - 4ac)) / (2a)",
+            "x = (b ± √(b^2 - 4ac)) / (2a)",
+            "x = (-b ± √(b^2 + 4ac)) / (2a)",
+            "x = (-b ± √(a^2 - 4bc)) / (2a)"
+          ],
+          "correctIndex": 0,
+          "explanation": "The quadratic formula used to solve any quadratic equation is x = (-b ± √(b^2 - 4ac)) / (2a)."
+        },
+        {
+          "id": "6-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "What part of the quadratic formula is called the discriminant?",
+          "answers": [
+            "b^2 - 4ac",
+            "2a",
+            " -b",
+            "√(b^2 - 4ac)"
+          ],
+          "correctIndex": 0,
+          "explanation": "The expression under the square root in the quadratic formula, b^2 - 4ac, is called the discriminant."
+        },
+        {
+          "id": "7-true-false",
+          "type": "True / false",
+          "difficulty": "Balanced mix",
+          "prompt": "If the discriminant (b^2 - 4ac) of a quadratic equation is negative, the equation has two real solutions.",
+          "answers": [
+            "True",
+            "False"
+          ],
+          "correctIndex": 1,
+          "explanation": "A negative discriminant indicates that the quadratic equation has no real solutions (it has two complex solutions)."
+        },
+        {
+          "id": "8-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "What are the solutions to the equation x^2 - 16 = 0?",
+          "answers": [
+            "x = 4 and x = -4",
+            "x = 16 and x = -16",
+            "x = 4 only",
+            "x = 8 and x = -8"
+          ],
+          "correctIndex": 0,
+          "explanation": "Adding 16 to both sides gives x^2 = 16. Taking the square root of both sides gives x = 4 and x = -4."
+        },
+        {
+          "id": "9-true-false",
+          "type": "True / false",
+          "difficulty": "Balanced mix",
+          "prompt": "The equation 2x^2 + 5 = 2x^2 + 3x - 1 is a quadratic equation.",
+          "answers": [
+            "True",
+            "False"
+          ],
+          "correctIndex": 1,
+          "explanation": "Subtracting 2x^2 from both sides cancels out the x^2 term, leaving 5 = 3x - 1, which is a linear equation."
+        },
+        {
+          "id": "10-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Balanced mix",
+          "prompt": "What is the shape of the graph of a quadratic function called?",
+          "answers": [
+            "Parabola",
+            "Hyperbola",
+            "Linear line",
+            "Circle"
+          ],
+          "correctIndex": 0,
+          "explanation": "The graph of a quadratic function y = ax^2 + bx + c forms a U-shaped curve called a parabola."
+        }
+      ],
+      "status": "live",
+      "attempts": 0,
+      "avgScore": null,
+      "createdAt": "2026-09-13T14:59:11.385Z",
+      "lastSharedAt": "2026-09-13T15:00:47.878Z"
+    },
+    {
+      "id": "1789367633375-xw44p",
+      "title": "Solar System Medium Difficulty Quiz",
+      "topic": "solar system",
+      "difficulty": "Medium",
+      "questionCount": 10,
+      "questionTypes": [
+        "Multiple choice"
+      ],
+      "questions": [
+        {
+          "id": "1-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Medium",
+          "prompt": "Which planet has the most extensive and complex ring system in the solar system?",
+          "answers": [
+            "Jupiter",
+            "Saturn",
+            "Uranus",
+            "Neptune"
+          ],
+          "correctIndex": 1,
+          "explanation": "Saturn is famous for its broad, bright ring system made primarily of ice and rock particles."
+        },
+        {
+          "id": "2-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Medium",
+          "prompt": "What is the hottest planet in our solar system?",
+          "answers": [
+            "Mercury",
+            "Venus",
+            "Mars",
+            "Jupiter"
+          ],
+          "correctIndex": 1,
+          "explanation": "Venus has a thick atmosphere that traps heat through a runaway greenhouse effect, making it hotter than Mercury."
+        },
+        {
+          "id": "3-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Medium",
+          "prompt": "Which planet is commonly known as the 'Red Planet'?",
+          "answers": [
+            "Venus",
+            "Mars",
+            "Jupiter",
+            "Mercury"
+          ],
+          "correctIndex": 1,
+          "explanation": "Mars appears red due to the abundance of iron oxide (rust) on its surface."
+        },
+        {
+          "id": "4-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Medium",
+          "prompt": "Which icy region of the solar system lies beyond Neptune and contains dwarf planets like Pluto?",
+          "answers": [
+            "The Asteroid Belt",
+            "The Kuiper Belt",
+            "The Oort Cloud",
+            "The Scattered Disc"
+          ],
+          "correctIndex": 1,
+          "explanation": "The Kuiper Belt is a ring-shaped region beyond Neptune filled with icy bodies, comets, and dwarf planets."
+        },
+        {
+          "id": "5-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Medium",
+          "prompt": "Which moon is the largest in the solar system, even surpassing the planet Mercury in size?",
+          "answers": [
+            "Titan",
+            "Ganymede",
+            "Callisto",
+            "Io"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ganymede, which orbits Jupiter, is the largest moon in the solar system."
+        },
+        {
+          "id": "6-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Medium",
+          "prompt": "What fundamental force keeps the planets in orbit around the Sun?",
+          "answers": [
+            "Magnetism",
+            "Gravity",
+            "Friction",
+            "Nuclear force"
+          ],
+          "correctIndex": 1,
+          "explanation": "The Sun's immense mass creates a strong gravitational pull that holds the planets in their orbits."
+        },
+        {
+          "id": "7-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Medium",
+          "prompt": "Which planet rotates on its side with an extreme axial tilt of approximately 98 degrees?",
+          "answers": [
+            "Neptune",
+            "Uranus",
+            "Saturn",
+            "Venus"
+          ],
+          "correctIndex": 1,
+          "explanation": "Uranus has an unusual axial tilt of nearly 98 degrees, causing it to appear to roll on its side as it orbits the Sun."
+        },
+        {
+          "id": "8-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Medium",
+          "prompt": "What is Jupiter's Great Red Spot?",
+          "answers": [
+            "A giant impact crater",
+            "A massive storm",
+            "A massive active volcano",
+            "An ocean of liquid iron"
+          ],
+          "correctIndex": 1,
+          "explanation": "The Great Red Spot is an enormous high-pressure storm in Jupiter's atmosphere that has lasted for centuries."
+        },
+        {
+          "id": "9-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Medium",
+          "prompt": "Where is the main Asteroid Belt located in our solar system?",
+          "answers": [
+            "Between Earth and Mars",
+            "Between Mars and Jupiter",
+            "Between Jupiter and Saturn",
+            "Beyond Neptune"
+          ],
+          "correctIndex": 1,
+          "explanation": "The Asteroid Belt occupies the vast region of space located between the orbits of Mars and Jupiter."
+        },
+        {
+          "id": "10-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Medium",
+          "prompt": "Olympus Mons, the largest known volcano in the solar system, is located on which planet?",
+          "answers": [
+            "Venus",
+            "Earth",
+            "Mars",
+            "Mercury"
+          ],
+          "correctIndex": 2,
+          "explanation": "Olympus Mons is an enormous shield volcano on Mars that stands about three times higher than Mount Everest."
+        }
+      ],
+      "status": "live",
+      "attempts": 0,
+      "avgScore": null,
+      "createdAt": "2026-09-14T06:33:53.375Z",
+      "lastSharedAt": "2026-09-14T06:35:03.691Z"
+    },
+    {
+      "id": "1792689560781-li5xy",
+      "title": "The French Revolution: A Mid-Level Quiz",
+      "topic": "french revolution",
+      "difficulty": "Medium",
+      "questionCount": 10,
+      "questionTypes": [
+        "Multiple choice"
+      ],
+      "questions": [
+        {
+          "id": "1-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Medium",
+          "prompt": "Which social class in pre-revolutionary France comprised the vast majority of the population and bore the heaviest tax burden?",
+          "answers": [
+            "The First Estate",
+            "The Second Estate",
+            "The Third Estate",
+            "The Nobility"
+          ],
+          "correctIndex": 2,
+          "explanation": "The Third Estate included peasants, city workers, and the bourgeoisie, representing about 98% of the population."
+        },
+        {
+          "id": "2-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Medium",
+          "prompt": "What was the symbolic start of the French Revolution on July 14, 1789?",
+          "answers": [
+            "The execution of Louis XVI",
+            "The Storming of the Bastille",
+            "The Tennis Court Oath",
+            "The March on Versailles"
+          ],
+          "correctIndex": 1,
+          "explanation": "The storming of the medieval fortress-prison, the Bastille, served as a powerful symbol of defiance against royal tyranny."
+        },
+        {
+          "id": "3-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Medium",
+          "prompt": "Which document, adopted in 1789, proclaimed that all men were 'born and remain free and equal in rights'?",
+          "answers": [
+            "The Napoleonic Code",
+            "The Declaration of the Rights of Man and of the Citizen",
+            "The Edict of Nantes",
+            "The Treaty of Versailles"
+          ],
+          "correctIndex": 1,
+          "explanation": "This foundational document reflected Enlightenment ideals and defined individual and collective rights."
+        },
+        {
+          "id": "4-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Medium",
+          "prompt": "Who was the leading figure of the Committee of Public Safety during the Reign of Terror?",
+          "answers": [
+            "Napoleon Bonaparte",
+            "Maximilien Robespierre",
+            "King Louis XVI",
+            "Marquis de Lafayette"
+          ],
+          "correctIndex": 1,
+          "explanation": "Robespierre directed the Committee of Public Safety, which oversaw the period of mass executions known as the Reign of Terror."
+        },
+        {
+          "id": "5-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Medium",
+          "prompt": "What was the primary method of execution used during the French Revolution?",
+          "answers": [
+            "Hanging",
+            "Firing squad",
+            "Guillotine",
+            "The rack"
+          ],
+          "correctIndex": 2,
+          "explanation": "The guillotine was adopted as a 'humane' and egalitarian method of execution during the Revolution."
+        },
+        {
+          "id": "6-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Medium",
+          "prompt": "Which event effectively ended the French Revolution in 1799?",
+          "answers": [
+            "The Battle of Waterloo",
+            "The crowning of Louis XVIII",
+            "Napoleon Bonaparte's coup d'état",
+            "The signing of the Magna Carta"
+          ],
+          "correctIndex": 2,
+          "explanation": "Napoleon's rise to power in 1799 marked the transition from revolutionary government to the Consulate."
+        },
+        {
+          "id": "7-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Medium",
+          "prompt": "What was the main purpose of the Tennis Court Oath?",
+          "answers": [
+            "To demand the King's resignation",
+            "To write a new constitution for France",
+            "To declare war on Austria",
+            "To reorganize the French military"
+          ],
+          "correctIndex": 1,
+          "explanation": "Members of the Third Estate swore not to disband until they had established a written constitution for France."
+        },
+        {
+          "id": "8-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Medium",
+          "prompt": "Who was the Queen of France during the outbreak of the French Revolution?",
+          "answers": [
+            "Catherine de' Medici",
+            "Marie Antoinette",
+            "Anne of Austria",
+            "Maria Theresa"
+          ],
+          "correctIndex": 1,
+          "explanation": "Marie Antoinette, the wife of Louis XVI, was a frequent target of revolutionary anger due to her lavish lifestyle."
+        },
+        {
+          "id": "9-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Medium",
+          "prompt": "What major shift in government occurred in 1792?",
+          "answers": [
+            "France became a constitutional monarchy",
+            "France abolished the monarchy and declared a republic",
+            "France became a military dictatorship",
+            "France surrendered to Prussia"
+          ],
+          "correctIndex": 1,
+          "explanation": "The National Convention abolished the monarchy in September 1792, establishing the First French Republic."
+        },
+        {
+          "id": "10-multiple-choice",
+          "type": "Multiple choice",
+          "difficulty": "Medium",
+          "prompt": "What was the 'Great Fear'?",
+          "answers": [
+            "A series of peasant riots in the countryside",
+            "The fear of foreign invasion",
+            "The panic caused by the King's escape attempt",
+            "The fear of the guillotine"
+          ],
+          "correctIndex": 0,
+          "explanation": "The Great Fear was a period of panic and peasant uprisings throughout rural France in the summer of 1789."
+        }
+      ],
+      "status": "live",
+      "attempts": 0,
+      "avgScore": null,
+      "createdAt": "2026-10-22T17:19:20.782Z"
+    }
+  ],
+  "results": [
+    {
+      "id": "1789312400317-38748",
+      "quizId": "1789311447077-79jd6",
+      "quizTitle": "Solar System Planetary Motion Quiz",
+      "studentName": "Maya Patel",
+      "correct": 2,
+      "total": 10,
+      "score": 20,
+      "responses": [
+        {
+          "selectedIndex": 0,
+          "answerText": "Perfect circles"
+        },
+        {
+          "selectedIndex": 0,
+          "answerText": "True"
+        },
+        {
+          "selectedIndex": 0,
+          "answerText": "Perihelion"
+        },
+        {
+          "selectedIndex": 0,
+          "answerText": "True"
+        },
+        {
+          "selectedIndex": 0,
+          "answerText": "Precession"
+        },
+        {
+          "selectedIndex": 0,
+          "answerText": "Electromagnetic force"
+        },
+        {
+          "selectedIndex": 0,
+          "answerText": "True"
+        },
+        {
+          "selectedIndex": 0,
+          "answerText": "The planet's mass cubed"
+        },
+        {
+          "selectedIndex": 0,
+          "answerText": "True"
+        },
+        {
+          "selectedIndex": 0,
+          "answerText": "Mercury"
+        }
+      ],
+      "completedAt": "2026-09-13T15:13:20.317Z"
+    },
+    {
+      "id": "1789361378914-hmuw2",
+      "quizId": "1789311551385-r9uo6",
+      "quizTitle": "Introduction to Quadratic Equations",
+      "studentName": "Vineet Roy",
+      "correct": 6,
+      "total": 10,
+      "score": 60,
+      "responses": [
+        {
+          "selectedIndex": 0,
+          "answerText": "ax^2 + bx + c = 0"
+        },
+        {
+          "selectedIndex": 0,
+          "answerText": "True"
+        },
+        {
+          "selectedIndex": 1,
+          "answerText": "3"
+        },
+        {
+          "selectedIndex": 0,
+          "answerText": "True"
+        },
+        {
+          "selectedIndex": 1,
+          "answerText": "x = (b ± √(b^2 - 4ac)) / (2a)"
+        },
+        {
+          "selectedIndex": 2,
+          "answerText": " -b"
+        },
+        {
+          "selectedIndex": 1,
+          "answerText": "False"
+        },
+        {
+          "selectedIndex": 1,
+          "answerText": "x = 16 and x = -16"
+        },
+        {
+          "selectedIndex": 1,
+          "answerText": "False"
+        },
+        {
+          "selectedIndex": 0,
+          "answerText": "Parabola"
+        }
+      ],
+      "completedAt": "2026-09-14T04:49:38.914Z"
+    },
+    {
+      "id": "1789364723010-x3z5e",
+      "quizId": "1789295340529-708su",
+      "quizTitle": "Python",
+      "studentName": "Vineet Roy",
+      "studentEmail": "vineet333roy@gmail.com",
+      "correct": 2,
+      "total": 10,
+      "score": 20,
+      "responses": [
+        {
+          "selectedIndex": 1,
+          "answerText": "A detail unrelated to the lesson"
+        },
+        {
+          "selectedIndex": 0,
+          "answerText": "True"
+        },
+        {
+          "selectedIndex": 1,
+          "answerText": "A detail unrelated to the lesson"
+        },
+        {
+          "selectedIndex": 1,
+          "answerText": "False"
+        },
+        {
+          "selectedIndex": 1,
+          "answerText": "A detail unrelated to the lesson"
+        },
+        {
+          "selectedIndex": 0,
+          "answerText": "True"
+        },
+        {
+          "selectedIndex": 1,
+          "answerText": "A detail unrelated to the lesson"
+        },
+        {
+          "selectedIndex": 1,
+          "answerText": "False"
+        },
+        {
+          "selectedIndex": 1,
+          "answerText": "A detail unrelated to the lesson"
+        },
+        {
+          "selectedIndex": 1,
+          "answerText": "False"
+        }
+      ],
+      "durationSeconds": 28,
+      "completedAt": "2026-09-14T05:45:23.010Z"
+    }
+  ]
+}

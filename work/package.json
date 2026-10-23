@@ -1,0 +1,8 @@
+{
+  "name": "quizzly-backend",
+  "version": "1.0.0",
+  "main": "preview-server-clean.js",
+  "scripts": {
+    "start": "node preview-server-clean.js"
+  }
+}
